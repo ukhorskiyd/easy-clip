@@ -6,3 +6,6 @@ desktop.ini
 # Editor folders
 .vscode/
 .idea/
+
+# Claude Code tool config
+.claude/
